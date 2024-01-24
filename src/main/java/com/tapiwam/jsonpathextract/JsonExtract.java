@@ -8,7 +8,7 @@ public class JsonExtract {
 
 
     public static List<String> extractPaths(String json){
-        JSONPObject
+        return null;
     }
 
 }
